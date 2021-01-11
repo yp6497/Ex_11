@@ -9,7 +9,7 @@ import android.os.Bundle;
  * @author Yulia Piavka <yp6497@bs.amalnet.k12.il>
  * @version 1.1
  * @since 12/1/2021
- * short description- 
+ * short description-
  */
 public class MainActivity extends AppCompatActivity {
 
