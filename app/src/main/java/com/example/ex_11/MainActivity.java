@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         public static final String PARENT_NAME_TWO = "ParentN2";
         public static final String PARENT_PHONE_ONE = "ParentP1";
         public static final String PARENT_PHONE_TWO = "ParentP2";
-        public static final String AVEIBALE = "aveible";
+        public static final String AVEIBALE = "aveible"; //
 
         public class HelperDB extends SQLiteOpenHelper {
 
